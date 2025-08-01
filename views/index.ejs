@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Find Inspection Stations</title>
+  <script>
+    // Load town names into JavaScript array
+    const townList = <%- JSON.stringify(towns) %>;
+
+    // Autocomplete logic
+    function autocomplete(inp, arr) {
+      let currentFocus;
+      inp.addEventListener("input", function(e) {
+        const val = this.value;
+        closeAllLists();
+        if (!val) return false;
+        currentFocus = -1;
+
+        const list = document.createElement("div");
+        list.setAttribute("id", this.id + "autocomplete-list");
+        list.setAttribute("class", "autocomplete-items");
+        this.parentNode.appendChild(list);
+
+        arr.forEach((town) => {
+          if (town.toLowerCase().startsWith(val.toLowerCase())) {
+            const item = document.createElement("div");
+            item.innerHTML = "<strong>" + town.substr(0, val.length) + "</strong>";
+            item.innerHTML += town.substr(val.length);
+            item.innerHTML += "<input type='hidden' value='" + town + "'>";
+            item.addEventListener("click", function() {
+              inp.value = this.getElementsByTagName("input")[0].value;
+              closeAllLists();
+            });
+            list.appendChild(item);
+          }
+        });
+      });
+
+      inp.addEventListener("keydown", function(e) {
+        let x = document.getElementById(this.id + "autocomplete-list");
+        if (x) x = x.getElementsByTagName("div");
+        if (e.keyCode === 40) {
+          currentFocus++;
+          addActive(x);
+        } else if (e.keyCode === 38) {
+          currentFocus--;
+          addActive(x);
+        } else if (e.keyCode === 13) {
+          e.preventDefault();
+          if (currentFocus > -1 && x) x[currentFocus].click();
+        }
+      });
+
+      function addActive(x) {
+        if (!x) return false;
+        removeActive(x);
+        if (currentFocus >= x.length) currentFocus = 0;
+        if (currentFocus < 0) currentFocus = x.length - 1;
+        x[currentFocus].classList.add("autocomplete-active");
+      }
+
+      function removeActive(x) {
+        for (let i = 0; i < x.length; i++) {
+          x[i].classList.remove("autocomplete-active");
+        }
+      }
+
+      function closeAllLists(elmnt) {
+        const items = document.getElementsByClassName("autocomplete-items");
+        for (let i = 0; i < items.length; i++) {
+          if (elmnt !== items[i] && elmnt !== inp) {
+            items[i].parentNode.removeChild(items[i]);
+          }
+        }
+      }
+
+      document.addEventListener("click", function(e) {
+        closeAllLists(e.target);
+      });
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+      autocomplete(document.getElementById("townInput"), townList);
+    });
+  </script>
+  <style>
+    .autocomplete-items {
+      position: absolute;
+      border: 1px solid #ddd;
+      border-top: none;
+      max-height: 200px;
+      overflow-y: auto;
+      z-index: 99;
+      background-color: #fff;
+    }
+
+    .autocomplete-items div {
+      padding: 10px;
+      cursor: pointer;
+    }
+
+    .autocomplete-items div:hover,
+    .autocomplete-active {
+      background-color: #e9e9e9;
+    }
+  </style>
+</head>
+<body>
+  <h1>Find Nearby Inspection Stations</h1>
+  <form action="/search" method="GET" autocomplete="off">
+    <div class="autocomplete" style="width:300px;">
+      <input id="townInput" type="text" name="town" placeholder="Enter your town" required />
+    </div>
+    <button type="submit">Search</button>
+  </form>
+</body>
+</html>

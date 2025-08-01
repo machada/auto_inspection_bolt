@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Nearby Stations</title>
+</head>
+<body>
+  <h1>Inspection Stations Near <%= selectedTown %></h1>
+
+  <% if (error) { %>
+    <p><%= error %></p>
+  <% } else { %>
+    <table border="1" cellpadding="5">
+      <tr>
+        <th>Station Name</th>
+        <th>City</th>
+        <th>Class</th>
+        <th>Distance (km)</th>
+      </tr>
+      <% stations.forEach(station => { %>
+        <tr>
+          <td><%= station.name || 'N/A' %></td>
+          <td><%= station.city || 'N/A' %></td>
+          <td><%= station.class || 'N/A' %></td>
+          <td><%= station.distance %></td>
+        </tr>
+      <% }); %>
+    </table>
+  <% } %>
+  <p><a href="/">← Back to search</a></p>
+</body>
+</html>

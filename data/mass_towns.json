@@ -1,0 +1,1222 @@
+[
+  {
+    "town":"Abington",
+    "latitude":42.12,
+    "longitude":-70.96
+  },
+  {
+    "town":"Acushnet Center",
+    "latitude":41.69,
+    "longitude":-70.91
+  },
+  {
+    "town":"Adams",
+    "latitude":42.63,
+    "longitude":-73.12
+  },
+  {
+    "town":"Agawam Town City",
+    "latitude":42.07,
+    "longitude":-72.65
+  },
+  {
+    "town":"Amesbury Town City",
+    "latitude":42.85,
+    "longitude":-70.94
+  },
+  {
+    "town":"Amherst Center",
+    "latitude":42.38,
+    "longitude":-72.52
+  },
+  {
+    "town":"Andover",
+    "latitude":42.66,
+    "longitude":-71.14
+  },
+  {
+    "town":"Arlington",
+    "latitude":42.42,
+    "longitude":-71.16
+  },
+  {
+    "town":"Athol",
+    "latitude":42.59,
+    "longitude":-72.23
+  },
+  {
+    "town":"Attleboro City",
+    "latitude":41.93,
+    "longitude":-71.29
+  },
+  {
+    "town":"Ayer",
+    "latitude":42.56,
+    "longitude":-71.58
+  },
+  {
+    "town":"Baldwinville",
+    "latitude":42.6,
+    "longitude":-72.08
+  },
+  {
+    "town":"Barnstable Town City",
+    "latitude":41.67,
+    "longitude":-70.36
+  },
+  {
+    "town":"Barre",
+    "latitude":42.42,
+    "longitude":-72.11
+  },
+  {
+    "town":"Belchertown",
+    "latitude":42.27,
+    "longitude":-72.41
+  },
+  {
+    "town":"Bellingham",
+    "latitude":42.09,
+    "longitude":-71.48
+  },
+  {
+    "town":"Belmont",
+    "latitude":42.4,
+    "longitude":-71.18
+  },
+  {
+    "town":"Beverly City",
+    "latitude":42.56,
+    "longitude":-70.84
+  },
+  {
+    "town":"Blandford",
+    "latitude":42.18,
+    "longitude":-72.92
+  },
+  {
+    "town":"Bliss Corner",
+    "latitude":41.61,
+    "longitude":-70.94
+  },
+  {
+    "town":"Boston City",
+    "latitude":42.33,
+    "longitude":-71.02
+  },
+  {
+    "town":"Bourne",
+    "latitude":41.73,
+    "longitude":-70.62
+  },
+  {
+    "town":"Boxford",
+    "latitude":42.67,
+    "longitude":-70.98
+  },
+  {
+    "town":"Braintree Town City",
+    "latitude":42.2,
+    "longitude":-71.0
+  },
+  {
+    "town":"Brewster",
+    "latitude":41.76,
+    "longitude":-70.08
+  },
+  {
+    "town":"Bridgewater",
+    "latitude":41.99,
+    "longitude":-70.97
+  },
+  {
+    "town":"Brockton City",
+    "latitude":42.08,
+    "longitude":-71.02
+  },
+  {
+    "town":"Brookfield",
+    "latitude":42.22,
+    "longitude":-72.1
+  },
+  {
+    "town":"Brookline",
+    "latitude":42.32,
+    "longitude":-71.14
+  },
+  {
+    "town":"Burlington",
+    "latitude":42.5,
+    "longitude":-71.2
+  },
+  {
+    "town":"Buzzards Bay",
+    "latitude":41.76,
+    "longitude":-70.61
+  },
+  {
+    "town":"Cambridge City",
+    "latitude":42.38,
+    "longitude":-71.12
+  },
+  {
+    "town":"Chatham",
+    "latitude":41.68,
+    "longitude":-69.96
+  },
+  {
+    "town":"Chelsea City",
+    "latitude":42.4,
+    "longitude":-71.03
+  },
+  {
+    "town":"Cheshire",
+    "latitude":42.56,
+    "longitude":-73.16
+  },
+  {
+    "town":"Chester",
+    "latitude":42.28,
+    "longitude":-72.98
+  },
+  {
+    "town":"Chicopee City",
+    "latitude":42.18,
+    "longitude":-72.57
+  },
+  {
+    "town":"Clinton",
+    "latitude":42.42,
+    "longitude":-71.69
+  },
+  {
+    "town":"Cochituate",
+    "latitude":42.33,
+    "longitude":-71.36
+  },
+  {
+    "town":"Cordaville",
+    "latitude":42.27,
+    "longitude":-71.52
+  },
+  {
+    "town":"Danvers",
+    "latitude":42.57,
+    "longitude":-70.95
+  },
+  {
+    "town":"Dedham",
+    "latitude":42.25,
+    "longitude":-71.18
+  },
+  {
+    "town":"Deerfield",
+    "latitude":42.55,
+    "longitude":-72.6
+  },
+  {
+    "town":"Dennis",
+    "latitude":41.73,
+    "longitude":-70.2
+  },
+  {
+    "town":"Dennis Port",
+    "latitude":41.67,
+    "longitude":-70.14
+  },
+  {
+    "town":"Devens",
+    "latitude":42.54,
+    "longitude":-71.61
+  },
+  {
+    "town":"Dover",
+    "latitude":42.25,
+    "longitude":-71.27
+  },
+  {
+    "town":"Duxbury",
+    "latitude":42.04,
+    "longitude":-70.67
+  },
+  {
+    "town":"East Brookfield",
+    "latitude":42.23,
+    "longitude":-72.05
+  },
+  {
+    "town":"East Dennis",
+    "latitude":41.74,
+    "longitude":-70.16
+  },
+  {
+    "town":"East Douglas",
+    "latitude":42.08,
+    "longitude":-71.71
+  },
+  {
+    "town":"East Falmouth",
+    "latitude":41.57,
+    "longitude":-70.56
+  },
+  {
+    "town":"East Harwich",
+    "latitude":41.71,
+    "longitude":-70.03
+  },
+  {
+    "town":"East Pepperell",
+    "latitude":42.67,
+    "longitude":-71.56
+  },
+  {
+    "town":"East Sandwich",
+    "latitude":41.74,
+    "longitude":-70.43
+  },
+  {
+    "town":"Easthampton Town City",
+    "latitude":42.27,
+    "longitude":-72.67
+  },
+  {
+    "town":"Essex",
+    "latitude":42.63,
+    "longitude":-70.77
+  },
+  {
+    "town":"Everett City",
+    "latitude":42.41,
+    "longitude":-71.05
+  },
+  {
+    "town":"Fall River City",
+    "latitude":41.71,
+    "longitude":-71.1
+  },
+  {
+    "town":"Falmouth",
+    "latitude":41.55,
+    "longitude":-70.61
+  },
+  {
+    "town":"Fiskdale",
+    "latitude":42.12,
+    "longitude":-72.11
+  },
+  {
+    "town":"Fitchburg City",
+    "latitude":42.59,
+    "longitude":-71.82
+  },
+  {
+    "town":"Forestdale",
+    "latitude":41.68,
+    "longitude":-70.51
+  },
+  {
+    "town":"Foxborough",
+    "latitude":42.06,
+    "longitude":-71.25
+  },
+  {
+    "town":"Framingham",
+    "latitude":42.31,
+    "longitude":-71.44
+  },
+  {
+    "town":"Franklin Town City",
+    "latitude":42.09,
+    "longitude":-71.41
+  },
+  {
+    "town":"Gardner City",
+    "latitude":42.58,
+    "longitude":-71.99
+  },
+  {
+    "town":"Gloucester City",
+    "latitude":42.63,
+    "longitude":-70.68
+  },
+  {
+    "town":"Granby",
+    "latitude":42.26,
+    "longitude":-72.52
+  },
+  {
+    "town":"Great Barrington",
+    "latitude":42.19,
+    "longitude":-73.36
+  },
+  {
+    "town":"Green Harbor-Cedar Crest",
+    "latitude":42.07,
+    "longitude":-70.66
+  },
+  {
+    "town":"Greenfield Town City",
+    "latitude":42.61,
+    "longitude":-72.6
+  },
+  {
+    "town":"Groton",
+    "latitude":42.61,
+    "longitude":-71.57
+  },
+  {
+    "town":"Hanson",
+    "latitude":42.06,
+    "longitude":-70.85
+  },
+  {
+    "town":"Harwich Center",
+    "latitude":41.69,
+    "longitude":-70.07
+  },
+  {
+    "town":"Harwich Port",
+    "latitude":41.67,
+    "longitude":-70.06
+  },
+  {
+    "town":"Hatfield",
+    "latitude":42.37,
+    "longitude":-72.61
+  },
+  {
+    "town":"Haverhill City",
+    "latitude":42.78,
+    "longitude":-71.09
+  },
+  {
+    "town":"Hingham",
+    "latitude":42.24,
+    "longitude":-70.89
+  },
+  {
+    "town":"Holbrook",
+    "latitude":42.15,
+    "longitude":-71.01
+  },
+  {
+    "town":"Holland",
+    "latitude":42.05,
+    "longitude":-72.15
+  },
+  {
+    "town":"Holyoke City",
+    "latitude":42.21,
+    "longitude":-72.64
+  },
+  {
+    "town":"Hopedale",
+    "latitude":42.13,
+    "longitude":-71.54
+  },
+  {
+    "town":"Hopkinton",
+    "latitude":42.22,
+    "longitude":-71.52
+  },
+  {
+    "town":"Housatonic",
+    "latitude":42.25,
+    "longitude":-73.36
+  },
+  {
+    "town":"Hudson",
+    "latitude":42.39,
+    "longitude":-71.56
+  },
+  {
+    "town":"Hull",
+    "latitude":42.31,
+    "longitude":-70.88
+  },
+  {
+    "town":"Huntington",
+    "latitude":42.24,
+    "longitude":-72.88
+  },
+  {
+    "town":"Ipswich",
+    "latitude":42.68,
+    "longitude":-70.83
+  },
+  {
+    "town":"Kingston",
+    "latitude":42.0,
+    "longitude":-70.72
+  },
+  {
+    "town":"Lawrence City",
+    "latitude":42.7,
+    "longitude":-71.16
+  },
+  {
+    "town":"Lee",
+    "latitude":42.31,
+    "longitude":-73.25
+  },
+  {
+    "town":"Lenox",
+    "latitude":42.36,
+    "longitude":-73.29
+  },
+  {
+    "town":"Leominster City",
+    "latitude":42.52,
+    "longitude":-71.77
+  },
+  {
+    "town":"Lexington",
+    "latitude":42.45,
+    "longitude":-71.23
+  },
+  {
+    "town":"Littleton Common",
+    "latitude":42.54,
+    "longitude":-71.47
+  },
+  {
+    "town":"Longmeadow",
+    "latitude":42.05,
+    "longitude":-72.57
+  },
+  {
+    "town":"Lowell City",
+    "latitude":42.64,
+    "longitude":-71.32
+  },
+  {
+    "town":"Lunenburg",
+    "latitude":42.59,
+    "longitude":-71.73
+  },
+  {
+    "town":"Lynn City",
+    "latitude":42.47,
+    "longitude":-70.96
+  },
+  {
+    "town":"Lynnfield",
+    "latitude":42.54,
+    "longitude":-71.04
+  },
+  {
+    "town":"Madaket",
+    "latitude":41.28,
+    "longitude":-70.19
+  },
+  {
+    "town":"Malden City",
+    "latitude":42.43,
+    "longitude":-71.06
+  },
+  {
+    "town":"Mansfield Center",
+    "latitude":42.02,
+    "longitude":-71.22
+  },
+  {
+    "town":"Marblehead",
+    "latitude":42.49,
+    "longitude":-70.83
+  },
+  {
+    "town":"Marion Center",
+    "latitude":41.7,
+    "longitude":-70.76
+  },
+  {
+    "town":"Marlborough City",
+    "latitude":42.35,
+    "longitude":-71.55
+  },
+  {
+    "town":"Marshfield",
+    "latitude":42.09,
+    "longitude":-70.7
+  },
+  {
+    "town":"Marshfield Hills",
+    "latitude":42.15,
+    "longitude":-70.73
+  },
+  {
+    "town":"Mashpee Neck",
+    "latitude":41.61,
+    "longitude":-70.47
+  },
+  {
+    "town":"Mattapoisett Center",
+    "latitude":41.67,
+    "longitude":-70.81
+  },
+  {
+    "town":"Maynard",
+    "latitude":42.43,
+    "longitude":-71.46
+  },
+  {
+    "town":"Medfield",
+    "latitude":42.19,
+    "longitude":-71.3
+  },
+  {
+    "town":"Medford City",
+    "latitude":42.42,
+    "longitude":-71.11
+  },
+  {
+    "town":"Melrose City",
+    "latitude":42.46,
+    "longitude":-71.06
+  },
+  {
+    "town":"Methuen Town City",
+    "latitude":42.73,
+    "longitude":-71.19
+  },
+  {
+    "town":"Middleborough Center",
+    "latitude":41.89,
+    "longitude":-70.93
+  },
+  {
+    "town":"Milford",
+    "latitude":42.15,
+    "longitude":-71.52
+  },
+  {
+    "town":"Millers Falls",
+    "latitude":42.58,
+    "longitude":-72.49
+  },
+  {
+    "town":"Millis-Clicquot",
+    "latitude":42.16,
+    "longitude":-71.35
+  },
+  {
+    "town":"Milton",
+    "latitude":42.24,
+    "longitude":-71.08
+  },
+  {
+    "town":"Monomoscoy Island",
+    "latitude":41.57,
+    "longitude":-70.5
+  },
+  {
+    "town":"Monson Center",
+    "latitude":42.1,
+    "longitude":-72.3
+  },
+  {
+    "town":"Monument Beach",
+    "latitude":41.72,
+    "longitude":-70.61
+  },
+  {
+    "town":"Nahant",
+    "latitude":42.41,
+    "longitude":-70.91
+  },
+  {
+    "town":"Nantucket",
+    "latitude":41.27,
+    "longitude":-70.09
+  },
+  {
+    "town":"Needham",
+    "latitude":42.28,
+    "longitude":-71.24
+  },
+  {
+    "town":"New Bedford City",
+    "latitude":41.66,
+    "longitude":-70.94
+  },
+  {
+    "town":"New Seabury",
+    "latitude":41.57,
+    "longitude":-70.48
+  },
+  {
+    "town":"Newburyport City",
+    "latitude":42.81,
+    "longitude":-70.89
+  },
+  {
+    "town":"Newton City",
+    "latitude":42.33,
+    "longitude":-71.21
+  },
+  {
+    "town":"North Adams City",
+    "latitude":42.68,
+    "longitude":-73.12
+  },
+  {
+    "town":"North Amherst",
+    "latitude":42.41,
+    "longitude":-72.52
+  },
+  {
+    "town":"North Brookfield",
+    "latitude":42.27,
+    "longitude":-72.08
+  },
+  {
+    "town":"North Eastham",
+    "latitude":41.85,
+    "longitude":-70.02
+  },
+  {
+    "town":"North Falmouth",
+    "latitude":41.64,
+    "longitude":-70.63
+  },
+  {
+    "town":"North Lakeville",
+    "latitude":41.86,
+    "longitude":-70.94
+  },
+  {
+    "town":"North Pembroke",
+    "latitude":42.1,
+    "longitude":-70.78
+  },
+  {
+    "town":"North Plymouth",
+    "latitude":41.98,
+    "longitude":-70.68
+  },
+  {
+    "town":"North Scituate",
+    "latitude":42.21,
+    "longitude":-70.77
+  },
+  {
+    "town":"North Seekonk",
+    "latitude":41.89,
+    "longitude":-71.33
+  },
+  {
+    "town":"North Westport",
+    "latitude":41.65,
+    "longitude":-71.09
+  },
+  {
+    "town":"Northampton City",
+    "latitude":42.33,
+    "longitude":-72.67
+  },
+  {
+    "town":"Northborough",
+    "latitude":42.31,
+    "longitude":-71.65
+  },
+  {
+    "town":"Northfield",
+    "latitude":42.71,
+    "longitude":-72.44
+  },
+  {
+    "town":"Northwest Harwich",
+    "latitude":41.69,
+    "longitude":-70.1
+  },
+  {
+    "town":"Norton Center",
+    "latitude":41.97,
+    "longitude":-71.19
+  },
+  {
+    "town":"Norwood",
+    "latitude":42.19,
+    "longitude":-71.19
+  },
+  {
+    "town":"Ocean Bluff-Brant Rock",
+    "latitude":42.1,
+    "longitude":-70.66
+  },
+  {
+    "town":"Ocean Grove",
+    "latitude":41.73,
+    "longitude":-71.21
+  },
+  {
+    "town":"Onset",
+    "latitude":41.75,
+    "longitude":-70.67
+  },
+  {
+    "town":"Orange",
+    "latitude":42.6,
+    "longitude":-72.3
+  },
+  {
+    "town":"Orleans",
+    "latitude":41.79,
+    "longitude":-70.0
+  },
+  {
+    "town":"Oxford",
+    "latitude":42.12,
+    "longitude":-71.87
+  },
+  {
+    "town":"Palmer Town City",
+    "latitude":42.19,
+    "longitude":-72.31
+  },
+  {
+    "town":"Peabody City",
+    "latitude":42.53,
+    "longitude":-70.97
+  },
+  {
+    "town":"Pepperell",
+    "latitude":42.67,
+    "longitude":-71.59
+  },
+  {
+    "town":"Petersham",
+    "latitude":42.49,
+    "longitude":-72.19
+  },
+  {
+    "town":"Pinehurst",
+    "latitude":42.53,
+    "longitude":-71.23
+  },
+  {
+    "town":"Pittsfield City",
+    "latitude":42.45,
+    "longitude":-73.26
+  },
+  {
+    "town":"Plymouth",
+    "latitude":41.96,
+    "longitude":-70.66
+  },
+  {
+    "town":"Pocasset",
+    "latitude":41.69,
+    "longitude":-70.64
+  },
+  {
+    "town":"Popponesset",
+    "latitude":41.57,
+    "longitude":-70.46
+  },
+  {
+    "town":"Popponesset Island",
+    "latitude":41.59,
+    "longitude":-70.46
+  },
+  {
+    "town":"Provincetown",
+    "latitude":42.05,
+    "longitude":-70.18
+  },
+  {
+    "town":"Quincy City",
+    "latitude":42.26,
+    "longitude":-71.01
+  },
+  {
+    "town":"Randolph",
+    "latitude":42.18,
+    "longitude":-71.05
+  },
+  {
+    "town":"Raynham Center",
+    "latitude":41.93,
+    "longitude":-71.04
+  },
+  {
+    "town":"Reading",
+    "latitude":42.54,
+    "longitude":-71.11
+  },
+  {
+    "town":"Revere City",
+    "latitude":42.42,
+    "longitude":-70.99
+  },
+  {
+    "town":"Rockport",
+    "latitude":42.65,
+    "longitude":-70.62
+  },
+  {
+    "town":"Rowley",
+    "latitude":42.72,
+    "longitude":-70.87
+  },
+  {
+    "town":"Russell",
+    "latitude":42.2,
+    "longitude":-72.86
+  },
+  {
+    "town":"Rutland",
+    "latitude":42.36,
+    "longitude":-71.96
+  },
+  {
+    "town":"Sagamore",
+    "latitude":41.78,
+    "longitude":-70.53
+  },
+  {
+    "town":"Salem City",
+    "latitude":42.52,
+    "longitude":-70.85
+  },
+  {
+    "town":"Salisbury",
+    "latitude":42.83,
+    "longitude":-70.84
+  },
+  {
+    "town":"Sandwich",
+    "latitude":41.76,
+    "longitude":-70.5
+  },
+  {
+    "town":"Saugus",
+    "latitude":42.47,
+    "longitude":-71.01
+  },
+  {
+    "town":"Scituate",
+    "latitude":42.19,
+    "longitude":-70.73
+  },
+  {
+    "town":"Seabrook",
+    "latitude":41.58,
+    "longitude":-70.5
+  },
+  {
+    "town":"Seconsett Island",
+    "latitude":41.57,
+    "longitude":-70.51
+  },
+  {
+    "town":"Sharon",
+    "latitude":42.12,
+    "longitude":-71.18
+  },
+  {
+    "town":"Shelburne Falls",
+    "latitude":42.61,
+    "longitude":-72.74
+  },
+  {
+    "town":"Shirley",
+    "latitude":42.54,
+    "longitude":-71.66
+  },
+  {
+    "town":"Siasconset",
+    "latitude":41.26,
+    "longitude":-69.97
+  },
+  {
+    "town":"Smith Mills",
+    "latitude":41.64,
+    "longitude":-70.99
+  },
+  {
+    "town":"Somerset",
+    "latitude":41.74,
+    "longitude":-71.16
+  },
+  {
+    "town":"Somerville City",
+    "latitude":42.39,
+    "longitude":-71.1
+  },
+  {
+    "town":"South Amherst",
+    "latitude":42.34,
+    "longitude":-72.52
+  },
+  {
+    "town":"South Ashburnham",
+    "latitude":42.61,
+    "longitude":-71.94
+  },
+  {
+    "town":"South Deerfield",
+    "latitude":42.48,
+    "longitude":-72.59
+  },
+  {
+    "town":"South Dennis",
+    "latitude":41.71,
+    "longitude":-70.15
+  },
+  {
+    "town":"South Duxbury",
+    "latitude":42.02,
+    "longitude":-70.69
+  },
+  {
+    "town":"South Lancaster",
+    "latitude":42.44,
+    "longitude":-71.69
+  },
+  {
+    "town":"South Yarmouth",
+    "latitude":41.67,
+    "longitude":-70.2
+  },
+  {
+    "town":"Southbridge Town City",
+    "latitude":42.06,
+    "longitude":-72.03
+  },
+  {
+    "town":"Southfield",
+    "latitude":42.15,
+    "longitude":-70.93
+  },
+  {
+    "town":"Spencer",
+    "latitude":42.25,
+    "longitude":-71.99
+  },
+  {
+    "town":"Springfield City",
+    "latitude":42.12,
+    "longitude":-72.54
+  },
+  {
+    "town":"Stoneham",
+    "latitude":42.47,
+    "longitude":-71.1
+  },
+  {
+    "town":"Sturbridge",
+    "latitude":42.1,
+    "longitude":-72.06
+  },
+  {
+    "town":"Swampscott",
+    "latitude":42.47,
+    "longitude":-70.89
+  },
+  {
+    "town":"Taunton City",
+    "latitude":41.9,
+    "longitude":-71.09
+  },
+  {
+    "town":"Teaticket",
+    "latitude":41.56,
+    "longitude":-70.59
+  },
+  {
+    "town":"The Pinehills",
+    "latitude":41.89,
+    "longitude":-70.6
+  },
+  {
+    "town":"Topsfield",
+    "latitude":42.64,
+    "longitude":-70.96
+  },
+  {
+    "town":"Townsend",
+    "latitude":42.67,
+    "longitude":-71.7
+  },
+  {
+    "town":"Turners Falls",
+    "latitude":42.6,
+    "longitude":-72.56
+  },
+  {
+    "town":"Upton",
+    "latitude":42.18,
+    "longitude":-71.61
+  },
+  {
+    "town":"Vineyard Haven",
+    "latitude":41.46,
+    "longitude":-70.6
+  },
+  {
+    "town":"Wakefield",
+    "latitude":42.5,
+    "longitude":-71.07
+  },
+  {
+    "town":"Walpole",
+    "latitude":42.14,
+    "longitude":-71.24
+  },
+  {
+    "town":"Waltham City",
+    "latitude":42.39,
+    "longitude":-71.24
+  },
+  {
+    "town":"Ware",
+    "latitude":42.25,
+    "longitude":-72.25
+  },
+  {
+    "town":"Wareham Center",
+    "latitude":41.75,
+    "longitude":-70.72
+  },
+  {
+    "town":"Warren",
+    "latitude":42.22,
+    "longitude":-72.19
+  },
+  {
+    "town":"Watertown Town City",
+    "latitude":42.37,
+    "longitude":-71.18
+  },
+  {
+    "town":"Webster",
+    "latitude":42.04,
+    "longitude":-71.87
+  },
+  {
+    "town":"Wellesley",
+    "latitude":42.3,
+    "longitude":-71.29
+  },
+  {
+    "town":"West Brookfield",
+    "latitude":42.24,
+    "longitude":-72.15
+  },
+  {
+    "town":"West Chatham",
+    "latitude":41.68,
+    "longitude":-69.99
+  },
+  {
+    "town":"West Concord",
+    "latitude":42.45,
+    "longitude":-71.4
+  },
+  {
+    "town":"West Dennis",
+    "latitude":41.67,
+    "longitude":-70.17
+  },
+  {
+    "town":"West Falmouth",
+    "latitude":41.6,
+    "longitude":-70.64
+  },
+  {
+    "town":"West Springfield Town City",
+    "latitude":42.13,
+    "longitude":-72.65
+  },
+  {
+    "town":"West Wareham",
+    "latitude":41.79,
+    "longitude":-70.75
+  },
+  {
+    "town":"West Yarmouth",
+    "latitude":41.65,
+    "longitude":-70.25
+  },
+  {
+    "town":"Westborough",
+    "latitude":42.27,
+    "longitude":-71.62
+  },
+  {
+    "town":"Westfield City",
+    "latitude":42.14,
+    "longitude":-72.76
+  },
+  {
+    "town":"Weweantic",
+    "latitude":41.74,
+    "longitude":-70.73
+  },
+  {
+    "town":"Weymouth Town City",
+    "latitude":42.21,
+    "longitude":-70.94
+  },
+  {
+    "town":"White Island Shores",
+    "latitude":41.79,
+    "longitude":-70.64
+  },
+  {
+    "town":"Whitinsville",
+    "latitude":42.11,
+    "longitude":-71.67
+  },
+  {
+    "town":"Wilbraham",
+    "latitude":42.13,
+    "longitude":-72.43
+  },
+  {
+    "town":"Williamstown",
+    "latitude":42.71,
+    "longitude":-73.2
+  },
+  {
+    "town":"Wilmington",
+    "latitude":42.56,
+    "longitude":-71.17
+  },
+  {
+    "town":"Winchendon",
+    "latitude":42.68,
+    "longitude":-72.04
+  },
+  {
+    "town":"Winchester",
+    "latitude":42.45,
+    "longitude":-71.15
+  },
+  {
+    "town":"Winthrop Town City",
+    "latitude":42.38,
+    "longitude":-70.97
+  },
+  {
+    "town":"Woburn City",
+    "latitude":42.49,
+    "longitude":-71.15
+  },
+  {
+    "town":"Woods Hole",
+    "latitude":41.53,
+    "longitude":-70.67
+  },
+  {
+    "town":"Worcester City",
+    "latitude":42.27,
+    "longitude":-71.81
+  },
+  {
+    "town":"Yarmouth Port",
+    "latitude":41.71,
+    "longitude":-70.23
+  }
+]
